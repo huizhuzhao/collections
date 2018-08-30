@@ -5,6 +5,25 @@
 * switching between applications `command + Tab`
 * `find ./ -name "*.java" | xargs grep -n "keyword"`
 
+## item2
+```
+⌘ + d: 垂直分屏，
+
+⌘ + shift + d: 水平分屏。
+
+⌘ + ]和⌘ + [在最近使用的分屏直接切换.
+
+⌘ + opt + 方向键切换到指定位置的分屏。
+
+⌘ + 数字: 切换标签页。 
+
+⌘ + 方向键 按方向切换标签页。
+
+shift + ⌘ + s: 保存当前窗口快照。
+
+⌘ + opt + b: 快照回放。很有意思的功能，你可以对你的操作根据时间轴进行回放。可以拖动下方的时间轴，也可以按左右方向键
+```
+
 ## Docker
 
 * daocloud 下载源 

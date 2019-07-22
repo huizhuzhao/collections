@@ -5,6 +5,11 @@
 * switching between applications `command + Tab`
 * `find ./ -name "*.java" | xargs grep -n "keyword"`
 
+tar 打包过滤 .git 
+```
+tar --exclude=lib --exclude=resources/img -zcvf WEB-INF.tar.gz ./WEB-INF 
+```
+
 ## item2
 ```
 ⌘ + t: 新开标签页
@@ -109,6 +114,11 @@ env PYTHONPATH=. python foundation/utils/rdkit_utils_test.py
   unzip Filename.zip (解压缩)
   gzip -d Filename.gz
   ```
+  tar 打包过滤 .git
+  ```
+  tar -zcvf test.tar.gz test --exclude .git --exclude conf.py --exclude config/*.json
+  ```
+  https://www.jianshu.com/p/ec47cd685341
   
 * xrandr 查看屏幕显示分辨率
 * lspci　查看显卡参数信息

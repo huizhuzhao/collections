@@ -22,7 +22,15 @@
 
 ### Paper list
 
-### 蛋白质+小分子亲和力 (Binding affinity)
+#### recommendation system
+
+* The Netflix Recommender System: Algorithms, Business Value, and Innovation [paper](http://delivery.acm.org/10.1145/2850000/2843948/a13-gomez-uribe.pdf?ip=106.11.34.242&id=2843948&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EE5B8A747884E71D5&__acm__=1564472402_c7e23e95cca996e017d22ebc61551b7f)
+
+* http://cbonnett.github.io/
+
+* https://www.ethanrosenthal.com/blog/
+
+#### 蛋白质+小分子亲和力 (Binding affinity)
 
 * An Introduction to Protein-Ligand Binding for BindingDB Users. Michael K. Gilson. (2010) [paper](https://www.bindingdb.org/bind/BindingDB-Intro2a.pdf)
 

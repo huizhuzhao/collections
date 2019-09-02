@@ -215,6 +215,8 @@ env PYTHONPATH=. python foundation/utils/rdkit_utils_test.py
 
 ## python
 
+* Memory Error `pip --no-cache-dir install matplotlib`
+
 * 将异常信息拦截 `python test.py 2> error.txt`
 
 * format
